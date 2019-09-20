@@ -6,3 +6,5 @@
 **/**/glove_vectors
 **/*.csv
 **/**/*.csv
+**/tmp
+**/**/tmp
